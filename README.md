@@ -1,0 +1,1 @@
+# malazar_wordpress_theme
